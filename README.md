@@ -8,5 +8,5 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 - Started and Completed:  Jan 17, 2022
 
 ## Day 3 - Lists & Dictionaries
-- Started: Jan 18, 2022
+- Started and Completed: Jan 18, 2022
 - something new i learned: unpacking lists!
