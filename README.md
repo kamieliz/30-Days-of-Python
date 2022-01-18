@@ -5,4 +5,7 @@ This repo contains scripts and notes I created following Coding for Entrepreneur
 - skipped this step because i already have an updated version of Python installed on my personal and professional laptop
 
 ## Day 2 - Strings, Variables, and Numbers
-- Started - Jan 17, 2022
+- Started and Completed:  Jan 17, 2022
+
+## Day 3 - Lists & Dictionaries
+- Started: Jan 18, 2022
