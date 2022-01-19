@@ -1,4 +1,4 @@
-# 30 Days of Python - Youtube Series
+# 30 Days of Python
 This repo contains scripts and notes I created combining Coding for All's 30 Days of Python and Coding for Entrepreneurs' 30 Days of Python series. I am following and documenting my process to get better at the fundamentals of Python.
 
 ## Day 1 - Installing Python 3.8
