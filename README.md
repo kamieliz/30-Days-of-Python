@@ -10,3 +10,7 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 3 - Lists & Dictionaries
 - Started and Completed: Jan 18, 2022
 - something new i learned: unpacking lists!
+
+## Day 4 - Loops & Iteration
+- Started and Completed: Jan 19, 2022
+- something new I learned: using loops with the range() function
