@@ -14,3 +14,7 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 4 - Loops & Iteration
 - Started and Completed: Jan 19, 2022
 - something new I learned: using loops with the range() function
+
+## Day 5 - Conditionals and Control Flow
+- Started and Completed: Jan 20, 2022
+- something new I learned: the correct syntax for writing an if else statement all in one line
