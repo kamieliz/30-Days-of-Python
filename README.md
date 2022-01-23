@@ -18,3 +18,7 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 5 - Conditionals and Control Flow
 - Started and Completed: Jan 20, 2022
 - something new I learned: the correct syntax for writing an if else statement all in one line
+
+## Day 6 - String Formatting and String Methods
+- Started and Completed: Jan 22, 2022
+- something new I learned: old style string formatting with %
