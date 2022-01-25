@@ -22,3 +22,11 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 6 - String Formatting and String Methods
 - Started and Completed: Jan 22, 2022
 - something new I learned: old style string formatting with %
+
+## Day 7 - Functions and Modules
+- Started and Completed: Jan 23, 2022
+- something new I learned: passing arbitrary number of arguments to a function
+
+## Day 8 - Tuples & Sets
+- Started and Completed: Jan 25, 2022
+- something new I learned: union, intersection and symmetric difference sets
