@@ -30,3 +30,8 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 8 - Tuples & Sets
 - Started and Completed: Jan 25, 2022
 - something new I learned: union, intersection and symmetric difference sets
+
+## Day 9 - Send Emails & Read Inbox
+- Started: Jan 26, 2022
+- Completed: Jan 27, 2022
+- something new i learned: how to send emails via python and how to read your unread messages and save them to a list
