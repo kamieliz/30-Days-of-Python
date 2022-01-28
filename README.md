@@ -35,3 +35,7 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 - Started: Jan 26, 2022
 - Completed: Jan 27, 2022
 - something new i learned: how to send emails via python and how to read your unread messages and save them to a list
+
+## Day 10 - File Handling
+- Started and Completed: Jan 28, 2022
+- something new i learned: how to work with json files 
