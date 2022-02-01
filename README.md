@@ -39,3 +39,11 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 10 - File Handling
 - Started and Completed: Jan 28, 2022
 - something new i learned: how to work with json files 
+
+## Day 11 - List Comprehension & Higher Order Functions
+- Started: Jan 31, 2022
+- Completed: Feb 1, 2022
+- something new i learned: lambda functions and how to use them
+
+## Day 12 - Type Errors and DateTime Objects
+- Started: Feb 1, 2022
