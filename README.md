@@ -47,3 +47,14 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 
 ## Day 12 - Type Errors and DateTime Objects
 - Started: Feb 1, 2022
+- Completed: Feb 2, 2022
+- something new i learned: timedelta function
+
+## Day 13 - Exception Handling and Package Manager
+- Started: Feb 2, 2022
+- Completed: Feb 3, 2022
+- something new I learned: the zip function combines list when looping 
+
+## Day 14 - Regular Expressions
+- Started and Completed: Feb 3, 2022
+- something new I learned: the difference between match, search, and findall
