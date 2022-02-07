@@ -58,3 +58,7 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 14 - Regular Expressions
 - Started and Completed: Feb 3, 2022
 - something new I learned: the difference between match, search, and findall
+
+## Day 15 - Classes and Objects
+- Started and Completed: Feb 7, 2022
+- something new I learned: creating an init function in the child means itll no longer inherit the init from parent
