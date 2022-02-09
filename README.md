@@ -62,3 +62,11 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 15 - Classes and Objects
 - Started and Completed: Feb 7, 2022
 - something new I learned: creating an init function in the child means itll no longer inherit the init from parent
+
+## Day 16 - Virtual Environment
+- Started and Completed: Feb 8, 2022
+- something new i learned: that you need to add your venv folder to .gitignore so it wont be uploaded to git
+
+## Day 17 - Web Scraping
+- Started and Completed: Feb 9, 2022
+- something new I learned: how to save my scraped data into a json file
