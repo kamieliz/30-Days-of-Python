@@ -70,3 +70,8 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 17 - Web Scraping
 - Started and Completed: Feb 9, 2022
 - something new I learned: how to save my scraped data into a json file
+
+## Day 18 - Using REST APIs
+- Started: February 10, 2022
+- Completed: February 14, 2022
+- something new I learned: using API documentation to formulate a request
