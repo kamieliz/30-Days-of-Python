@@ -75,3 +75,7 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 - Started: February 10, 2022
 - Completed: February 14, 2022
 - something new I learned: using API documentation to formulate a request
+
+## Day 19 - Python Web Apps
+- Started and Completed: February 15,2022
+- something new I learned: how to use ngrok to create an accessible url for a temporary app
