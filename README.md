@@ -87,3 +87,9 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 
 ## Day 21 - Scrape, Automate Comments and Likes with Selenium
 - Started: February 17, 2022
+- Completed: February 22, 2022
+- something new i learned: how to automate likes and comments
+
+## Day 22 - Building a Data Science Pipeline with Jupyter, Pandas and FastAPI
+- Started and Completed: February 23, 2022
+- something new i learned: how to display my results using FastAPI
