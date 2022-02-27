@@ -93,3 +93,12 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 22 - Building a Data Science Pipeline with Jupyter, Pandas and FastAPI
 - Started and Completed: February 23, 2022
 - something new i learned: how to display my results using FastAPI
+
+## Day 23 - Price Tracking on Amazon
+- Started: February 24, 2022
+- Completed: February 25, 2022
+- something new I learned: how to bypass rudimentary web scraping blocks using selenium
+
+## Day 24 - Working with Spotify's API
+- Started and Completed: February 26, 2022
+- something new I learned: how to create a client class for interacting with an API
