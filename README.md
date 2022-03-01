@@ -102,3 +102,7 @@ This repo contains scripts and notes I created combining Coding for All's 30 Day
 ## Day 24 - Working with Spotify's API
 - Started and Completed: February 26, 2022
 - something new I learned: how to create a client class for interacting with an API
+
+## Day 25 - Working with Google Maps API
+- Started and Completed: March 1, 2022
+- something new I learned: that google maps has APIs for individual tasks
